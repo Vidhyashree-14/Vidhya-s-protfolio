@@ -14,5 +14,6 @@
 3. Transactions by hours
 4. Transactions by Product category
 * Create an interactive Dashboard to visualize patterns and trends.
-* Dashboar image: ![Coffee shop dashboard](https://github.com/user-attachments/assets/e560320e-fb49-40a7-8dd1-a4f27a7c9d88)
+## Dashboar image: 
+![Coffee shop dashboard](https://github.com/user-attachments/assets/e560320e-fb49-40a7-8dd1-a4f27a7c9d88)
 
